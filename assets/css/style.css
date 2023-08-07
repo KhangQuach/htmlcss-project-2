@@ -75,6 +75,7 @@ a {
 /* Hero */
 .hero {
     padding-top: 60px;
+    padding-bottom: 65px;
     background: #fffcf4;
 }
 .hero .media-block .img {
